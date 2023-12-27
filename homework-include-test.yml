@@ -1,2 +1,3 @@
 homework-test-job:
-  script: echo "Homework_Four"
+  script: 
+    - echo "Homework_Four"
